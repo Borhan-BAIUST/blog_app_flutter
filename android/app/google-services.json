@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32309641120",
+    "project_id": "blog-app-bcd5f",
+    "storage_bucket": "blog-app-bcd5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32309641120:android:38df51cb1e5cb1181eaec5",
+        "android_client_info": {
+          "package_name": "com.borhan.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32309641120-7ut4uj0p3akkce6ullumai9abb2bl3ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1uh3Ei_PBBB_SK64VwERLG1DYrcan9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32309641120-7ut4uj0p3akkce6ullumai9abb2bl3ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
